@@ -1,7 +1,7 @@
 # **Project Soundscape**
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/600x200/1a202c/718096%3Ftext%3DProject%2520Soundscape%26font%3Dinter" alt="Project Soundscape Banner">
+<img src="https://github.com/project-soundscape/.github/blob/main/profile/soundscape.png?raw=true" alt="Project Soundscape Banner">
 </p>
 
 <p align="center">
